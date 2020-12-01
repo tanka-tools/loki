@@ -4,7 +4,7 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
           "subdir": "consul"
         }
       },
@@ -13,7 +13,7 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
           "subdir": "jaeger-agent-mixin"
         }
       },
@@ -22,16 +22,16 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
           "subdir": "ksonnet-util"
         }
       },
-      "version": "master"
+      "version": "my-add-serviceaccount-features"
     },
     {
       "source": {
         "git": {
-          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
           "subdir": "memcached"
         }
       },

@@ -4,22 +4,42 @@
     {
       "source": {
         "git": {
-          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
           "subdir": "consul"
         }
       },
-      "version": "8629e32d04a0eefdce41224540f0d31de7d40deb",
+      "version": "12bd9ba3ae568159f8e3b04dfab0ba6f8a3ae2c0",
       "sum": "whodWjF2UjlDT6rDiBsxbT+71UGD2J7IKiVxJETrXCA="
     },
     {
       "source": {
         "git": {
-          "remote": "https://github.com/grafana/jsonnet-libs.git",
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
           "subdir": "jaeger-agent-mixin"
         }
       },
-      "version": "8629e32d04a0eefdce41224540f0d31de7d40deb",
+      "version": "12bd9ba3ae568159f8e3b04dfab0ba6f8a3ae2c0",
       "sum": "DsdBoqgx5kE3zc6fMYnfiGjW2+9Mx2OXFieWm1oFHgY="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
+          "subdir": "ksonnet-util"
+        }
+      },
+      "version": "df2d489af5bf7dff37e4d71b89c935177ffe857f",
+      "sum": "Tr55Jt6SvU1XUP3seHxyDSFju8DftTmjBGNFOhGn/cE="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/everquoteinc/jsonnet-libs.git",
+          "subdir": "memcached"
+        }
+      },
+      "version": "12bd9ba3ae568159f8e3b04dfab0ba6f8a3ae2c0",
+      "sum": "AIspZ151p0qkxVc9tuoAEYNrkazV6QncWWsIsarK9GE="
     },
     {
       "source": {
@@ -30,16 +50,6 @@
       },
       "version": "8629e32d04a0eefdce41224540f0d31de7d40deb",
       "sum": "TGgjbv8oGfmMNjfvcgxi2cX9RAJKGZnYGLEhzK2wNjM="
-    },
-    {
-      "source": {
-        "git": {
-          "remote": "https://github.com/grafana/jsonnet-libs.git",
-          "subdir": "memcached"
-        }
-      },
-      "version": "8629e32d04a0eefdce41224540f0d31de7d40deb",
-      "sum": "AIspZ151p0qkxVc9tuoAEYNrkazV6QncWWsIsarK9GE="
     }
   ],
   "legacyImports": false
